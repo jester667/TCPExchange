@@ -1,0 +1,21 @@
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ClientTcpWinForm\ClientTcpWinForm\bin\Debug\ClientTcpWinForm.exe.config
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ClientTcpWinForm\ClientTcpWinForm\bin\Debug\ClientTcpWinForm.exe
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ClientTcpWinForm\ClientTcpWinForm\bin\Debug\ClientTcpWinForm.pdb
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.csprojAssemblyReference.cache
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.Form1.resources
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.Properties.Resources.resources
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.exe
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.pdb
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.FormPicture.resources
+C:\Users\Влад\Desktop\TCP\ClientTcpWinForm\ClientTcpWinForm\bin\Debug\ClientTcpWinForm.exe.config
+C:\Users\Влад\Desktop\TCP\ClientTcpWinForm\ClientTcpWinForm\bin\Debug\ClientTcpWinForm.exe
+C:\Users\Влад\Desktop\TCP\ClientTcpWinForm\ClientTcpWinForm\bin\Debug\ClientTcpWinForm.pdb
+C:\Users\Влад\Desktop\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.Form1.resources
+C:\Users\Влад\Desktop\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.FormPicture.resources
+C:\Users\Влад\Desktop\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.Properties.Resources.resources
+C:\Users\Влад\Desktop\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.exe
+C:\Users\Влад\Desktop\TCP\ClientTcpWinForm\ClientTcpWinForm\obj\Debug\ClientTcpWinForm.pdb

@@ -1,0 +1,14 @@
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe.config
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ServerTCP\ServerTCP\bin\Debug\ServerTCP.pdb
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csprojAssemblyReference.cache
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ServerTCP\ServerTCP\obj\Debug\ServerTCP.exe
+C:\Users\Влад\Desktop\СГТУ 3к 2с\TCP\ServerTCP\ServerTCP\obj\Debug\ServerTCP.pdb
+C:\Users\Влад\Desktop\TCP\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe.config
+C:\Users\Влад\Desktop\TCP\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe
+C:\Users\Влад\Desktop\TCP\ServerTCP\ServerTCP\bin\Debug\ServerTCP.pdb
+C:\Users\Влад\Desktop\TCP\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csprojAssemblyReference.cache
+C:\Users\Влад\Desktop\TCP\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\TCP\ServerTCP\ServerTCP\obj\Debug\ServerTCP.exe
+C:\Users\Влад\Desktop\TCP\ServerTCP\ServerTCP\obj\Debug\ServerTCP.pdb
